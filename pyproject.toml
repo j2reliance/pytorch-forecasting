@@ -29,7 +29,7 @@ black = 1
 [tool.poetry]
 name = "pytorch_forecasting"
 readme = "README.md"  # Markdown files are supported
-version = "0.9.3-rc2"  # is being replaced automatically
+version = "0.9.3-rc3"  # is being replaced automatically
 
 authors = ["Jan Beitner"]
 classifiers = [
